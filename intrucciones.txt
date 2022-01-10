@@ -1,0 +1,3 @@
+Crear el archivo .babelrc
+
+Crear el archivo webpack.config.js

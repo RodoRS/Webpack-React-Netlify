@@ -1,0 +1,20 @@
+Instalar React 
+    npm i react react-dom -s
+
+Iniciarlizar el proyecto    
+    npm init -y
+
+
+//Instalación de WebPack en el proyecto
+    npm i @babel/core @babel/preset-env @babel/preset-react babel-loader -d
+    npm i webpack webpack-cli webpack-dev-server -d
+
+//Plugins
+    HTML
+        npm i html-loader html-webpack-plugin -d
+
+    CSS & SASS
+        npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -d
+
+    
+    npm i css-minimizer-webpack-plugin terser-webpack-plugin clean-webpack-plugin -d
